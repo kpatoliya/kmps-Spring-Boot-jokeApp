@@ -1,2 +1,3 @@
-# kmps-jokeApp
-Application generating random jokes
+# kmps-jokeApp-springboot
+
+This Spring Boot web application generates random jokes.
